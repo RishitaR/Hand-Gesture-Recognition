@@ -24,8 +24,7 @@ The dataset consists of 37 Indian Sign Language gestures, with each gesture repr
 
 ## Results
 
-Results
-Model Accuracy: 95%
-Real-Time Performance: Recognizes gestures with minimal latency.
-Evaluation: Multiple models were evaluated, with VGG16 delivering the best balance of accuracy and performance.
+- **Model Accuracy**: 95%
+- **Real-Time Performance**: Recognizes gestures with minimal latency.
+- **Evaluation**: Multiple models were evaluated, with VGG16 delivering the best balance of accuracy and performance.
 
